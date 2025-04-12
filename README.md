@@ -56,7 +56,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Mahmudul Hassan Rudra**  
-[🌐 Website](https://rudra2001-coder.github.io/my/) | [📺 YouTube](https://www.youtube.com/@MahmudulHassanRudra) | [💼 LinkedIn](https://linkedin.com)
+[🌐 Website](https://rudra2001-coder.github.io/my/) | [📺 YouTube](https://www.youtube.com/@MahmudulHassanRudra) | [💼 LinkedIn](https://www.linkedin.com/in/mahmudul-hasan-rudra/)
 
 ---
 
